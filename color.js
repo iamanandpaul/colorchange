@@ -10,3 +10,15 @@ function getRandomColor() {
   
     document.body.style.background = bgColor;
 }
+
+// const colors = ['red', 'green', 'blue', 'yellow', 'pink', 'purple']
+// const button = document.querySelector("button")
+// const body = document.querySelector("body")
+
+// button.addEventListener("click",changeColor)
+
+// function changeColor(){
+//     const colorNo = parseInt(Math.random()*colors.length)
+//     body.style.backgroundColor = colors[colorNo]
+// }
+
